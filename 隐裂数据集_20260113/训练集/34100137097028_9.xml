@@ -1,0 +1,26 @@
+<annotation>
+	<folder>训练集</folder>
+	<filename>34100137097028_9.png</filename>
+	<path>D:\Desktop\东莞AI研究院工程师面试题目（两题）\01-技术题\隐裂数据集_20260113\训练集\34100137097028_9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>262</ymin>
+			<xmax>243</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

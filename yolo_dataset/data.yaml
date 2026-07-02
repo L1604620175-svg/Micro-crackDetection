@@ -1,0 +1,14 @@
+path: D:/Micro-crack detection/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+# 单类别：隐裂(QX)
+nc: 1
+names: ['crack']
+
+# 数据集统计
+# train: 含正样本+负样本
+# val: 含正样本+负样本
+# test: 仅正样本（用于mAP/Recall评估）
+# test_negative: 负样本（用于过杀率评估）

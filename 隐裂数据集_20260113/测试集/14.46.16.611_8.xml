@@ -1,0 +1,26 @@
+<annotation>
+	<folder>测试集</folder>
+	<filename>14.46.16.611_8.png</filename>
+	<path>C:\Users\张彬腾\Desktop\隐裂数据集\测试集\14.46.16.611_8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>QX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>509</ymin>
+			<xmax>254</xmax>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>
