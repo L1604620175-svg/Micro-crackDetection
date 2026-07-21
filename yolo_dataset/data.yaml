@@ -5,8 +5,7 @@ test: images/test
 
 # 单类别：隐裂(QX)
 nc: 1
-names: ['crack']
-
+names: ["crack"]
 # 数据集统计
 # train: 含正样本+负样本
 # val: 含正样本+负样本
